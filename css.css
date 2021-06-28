@@ -1,0 +1,21 @@
+.t{
+    background-color: rgba(255, 255, 0, 0.198);
+    background-position:top;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    font-style: italic;
+}
+.p{
+    padding-top: 5px;
+    text-indent: 0%;
+    color: brown;
+    text-align: right;
+    text-transform: capitalize;
+    background-color: pink;
+    font-style: italic;
+}
+*{
+    text-align:center;
+    font-size:x-large;
+}
